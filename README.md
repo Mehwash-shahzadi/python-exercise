@@ -22,10 +22,10 @@
 
 #Delete data from list
 
-. li.pop() method: delete item from the end of the list.if we give specfic index it remove this index item
+. li.pop() method: delete item from the end of the list.if we give argument (index) it remove this index item
 
 . li.remove() method
 
-. del keyword: del keyword delete the whole list.if we give index it remove this index item
+. del keyword: del keyword delete the whole list.if we give argument(index) it remove this index item
 
 . li.clear() method : this method clear the list.and after this method the list is empty.
